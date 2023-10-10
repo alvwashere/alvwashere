@@ -8,7 +8,7 @@
 
 ## 🛠️ What I'm experienced with
 - **Languages**: LUA, JavaScript, HTML, CSS, 
-- **Frameworks**: Node.js, React.js, Express.js
+- **Frameworks**: Discord.js, React.js, Express.js
 - **Specialties**: Discord Bot Development, Web Development, FiveM & Roblox Scripting
 
 ## 📫 How to reach me
