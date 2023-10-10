@@ -6,7 +6,7 @@
 - 🎮 **Experience**: Development in FiveM & Web Development since 2019.
 - 🤝 **Age**: 19 years old
 
-## 🛠️ Technologies & Tools
+## 🛠️ What I'm experienced with
 - **Languages**: LUA, JavaScript, HTML, CSS, 
 - **Frameworks**: Node.js, React.js, Express.js
 - **Specialties**: Discord Bot Development, Web Development, FiveM & Roblox Scripting
