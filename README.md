@@ -1,6 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5865F2&width=435&lines=Hi,+I'm+Alv;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
-
 ## 🌍 About Me
 - 📍 **Location**: United Kingdom
 - 🎮 **Experience**: FiveM Development since 2020, Unity & UE5 Development since 2023.
@@ -23,8 +22,19 @@
 </div>
 
 ## 📫 How to reach me
-- **Discord**: alvwashere
-- **My Server:** [Discord](https://discord.gg/GsYjd2mxSk)
+<div align="left">
+  <a href="https://discord.gg/GsYjd2mxSk" target="_blank">
+    <img src="https://img.shields.io/badge/Join_My_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/users/396666663529283585" target="_blank">
+    <img src="https://img.shields.io/badge/alvwashere-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <a href="https://youtube.com/@alvfivem" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
 
 ## 📊 My GitHub statistics
 
@@ -34,3 +44,5 @@
   <img height="180em" src="https://github-readme-stats-taupe-seven-13.vercel.app/api/top-langs/?username=alvwashere&layout=compact&langs_count=8&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23"/>
 </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=100&section=footer" width="100%"/>
