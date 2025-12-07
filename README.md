@@ -1,4 +1,4 @@
-# Welcome to my GitHub!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5865F2&width=435&lines=Hi,+I'm+Alv;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
 
 ## 🌍 About Me
